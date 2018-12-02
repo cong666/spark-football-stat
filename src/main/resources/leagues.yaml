@@ -1,0 +1,10 @@
+- name: Ligue 1
+  url: https://fr.wikipedia.org/wiki/Championnat_de_France_de_football_%s-%s
+- name: Serie A
+  url: https://fr.wikipedia.org/wiki/Championnat_d'Italie_de_football_%s-%s
+- name: Liga
+  url: https://fr.wikipedia.org/wiki/Championnat_d'Espagne_de_football_%s-%s
+- name: Bundesliga
+  url: https://fr.wikipedia.org/wiki/Championnat_d'Allemagne_de_football_%s-%s
+- name: Premier League
+  url: https://fr.wikipedia.org/wiki/Championnat_d'Angleterre_de_football_%s-%s
